@@ -1,0 +1,40 @@
+Novel Game Bot — Owner Commands
+
+/result 6 PM VALUE
+  Save the 6:00 PM round result.
+  Example: /result 6 PM 57
+
+/addtime 8 PM
+  Add a round using 12-hour time.
+
+/removetime 8 PM
+  Remove a round using 12-hour time.
+
+/give POINTS (Reply to member message)
+  Add virtual coins to a user.
+  Example: /give 123456789 500
+
+/announce TEXT
+  Send an announcement.
+  Example: /announce 12:00 PM round is open.
+
+/admin
+  Show the owner command list.
+
+Default Round Times:
+• 12:00 PM
+• 1:00 PM
+
+Time format: 1–12 + AM/PM only (no 24-hour format).
+
+User commands:
+/start
+/play2d CHOICE POINTS
+/play3d CHOICE POINTS
+/profile
+/daily
+/leaderboard
+/rounds
+/history
+
+Important: Coins/points are virtual only and have no cash value.
